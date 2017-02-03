@@ -1,0 +1,23 @@
+{
+  "name": "ip-api-lookup",
+  "version": "1.0.0",
+  "description": "Wrapper for the ip-api.com API",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover jasmine"
+  },
+  "keywords": [
+    "ip",
+    "api",
+    "lookup",
+    "dns"
+  ],
+  "author": "Jordy Versmissen",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.5.3",
+    "jasmine-core": "^2.5.2",
+    "jshint": "^2.9.4"
+  }
+}
